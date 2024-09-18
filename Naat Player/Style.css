@@ -1,0 +1,112 @@
+body{
+background:black;
+    height: 1000px;
+ height: 100vh;
+ margin: 0;
+ align-items: center; 
+  display: flex; 
+ justify-content: center;
+
+}
+.three{
+    color: rgb(219, 213, 213);
+    margin-left: 200px;
+    margin-top: -40px;
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+.four{
+    color: rgb(219, 213, 213);
+    margin-top: 10px;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+span{
+    color: rgb(255, 227, 156);
+    font-family: lucida handwriting;
+
+}
+.main{
+    margin-top: -10px;
+    margin-left: -0px;
+    border: 6px solid rgb(255, 227, 156);
+    text-align: center;
+    background-color: rgb(219, 213, 213);
+    padding: 50px;
+    border-radius: 60px;
+  box-shadow: 20px 20px 2000px  navy;
+width: 300px;
+height: 650px;
+ font-family: Arial, Helvetica, sans-serif
+}
+
+.dropdown{
+    position: relative;
+    top: -25px;
+   right: 20px;
+   font-weight: bold;
+   text-align: left;
+}
+
+.box2{
+position: relative;
+right: -150px;
+width: 35px;
+bottom: 88px;
+}
+
+.text{
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+}
+
+.artist{
+    position: relative;
+    top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+   
+}
+.naatname{
+    font-size: 20px;
+    font-weight: bolder;
+    color: navy;
+
+}
+.one{
+
+    margin-left: -15px;
+    margin-top: 40px;
+    width: 200px;
+    height: 220px;
+    border-radius: 50%;
+}
+.two{
+    margin-left: -15px;
+}
+
+.text:hover{
+    color:  navy;
+    
+ font-size: 42px;
+}
+.one:hover{
+    border: 6px solid rgb(255, 255, 255);
+    box-shadow: 0px 0px 30px rgb(255, 227, 156);
+}
+.main:hover{
+    border:6px solid  rgb(0, 0, 0)  ;
+    box-shadow: 2px 2px 1000px rgb(255, 227, 156) ;
+    background-color: rgb(195, 195, 195);
+
+}
+.dropdown:hover{
+    color:  navy;
+   
+}
+
